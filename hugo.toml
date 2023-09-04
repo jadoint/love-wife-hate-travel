@@ -7,6 +7,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 theme = "gallery"
 
+# Google Analytics
+googleAnalytics = "G-DT7W92NYNR"
+
 [params]
 title = ""
 description = "Wife wants to travel, I want to sleep"
