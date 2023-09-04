@@ -13,4 +13,6 @@
     </ul>
   {{ end }}
 </footer>
-{{ template "_internal/google_analytics.html" . }}
+{{ if hasPrefix .Site.GoogleAnalytics "G-" }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
