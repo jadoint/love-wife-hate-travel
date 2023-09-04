@@ -1,10 +1,8 @@
-{{ if not .IsHome }}
-  <div class="mx-auto mb-16 mt-9 max-w-screen-lg px-6 text-center">
-    {{ if .Title }}
-      <h1 class="text-3xl font-semibold tracking-tight md:text-4xl">{{ .Title }}</h1>
-    {{ end }}
-    {{ if .Description }}
-      <p class="mt-6 text-neutral-500 dark:text-neutral-400 md:text-lg">{{ .Description }}</p>
-    {{ end }}
-  </div>
-{{ end }}
+<div class="mx-auto mb-16 mt-9 max-w-screen-lg px-6 text-center">
+  {{ if .Title }}
+    <h1 class="text-3xl font-semibold tracking-tight md:text-4xl">{{ .Title }}</h1>
+  {{ end }}
+  {{ if .Description }}
+    <p class="mt-6 text-neutral-500 dark:text-neutral-400 md:text-lg">{{ .Description }}</p>
+  {{ end }}
+</div>
