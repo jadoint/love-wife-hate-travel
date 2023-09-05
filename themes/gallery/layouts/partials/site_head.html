@@ -7,9 +7,13 @@
     <title>{{ .Title }} – {{ .Site.Title }}</title>
   {{- end }}
   <link rel="canonical" href="{{ .Permalink }}" />
-  <link rel="icon" type="image/svg+xml" href="{{ "images/favicon.svg" | relURL }}" />
-  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}" />
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}" />
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | relURL }}apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | relURL }}favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | relURL }}favicon-16x16.png" />
+
   <link rel="preload" href="/fonts/Inter-roman.var.woff2" as="font" type="font/woff2" />
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
   {{ hugo.Generator }}

@@ -1,5 +1,10 @@
 +++
 title = 'Jetblue Mint BOS to SFO'
+description = "JetBlue Mint is hands down the best first class product out of all other domestic carriers. The upgraded seating and service is available on all transatlantic and select coast-to-coast flights. With its fully lie-flat seats (massage functionality!), the largest TV on a U.S. airline, first class meals and service, and even suites equipped with their own privacy doors, no other domestic airline comes close in the air at this tier of service. I took this particular flight right around when they first introduced this service and amazingly, they've actually improved upon it since then."
 date = 2023-09-03T17:57:44-07:00
 draft = false
 +++
+
+Original post:
+
+JetBlue Mint, as of this writing, is currently the best operating domestic first class product with transcontinental flights out of Boston, New York, San Francisco, and Los Angeles. With its fully lie-flat seats (massage functionality!), first class meals and service, and even suites equipped with their own privacy doors, no other domestic airline comes close in the air at this tier especially at its current pricepoints (my one-way ticket cost me $600 although I don't expect that to last). Their ground service is in need of improvement though, at least at Boston Logan Airport. I just wish there was a fully functioning TSA PreCheck security lane in Terminal C (where JetBlue and Alaska Airlines fly out of) or at least have the priority access line available to JetBlue Mint customers. Only tickets stamped with \"First Class\" are allowed on the fast lane, which JetBlue doesn't have for some reason but Alaska Air does (most of the time). There are no exceptions even if you technically are in first class. If you happen to be flying from New York or Boston to San Francisco or Los Angeles, I highly recommend checking out JetBlue's Mint class product before more people start taking advantage of it and those tickets are priced accordingly!
