@@ -1,7 +1,7 @@
 baseURL = 'https://lovewifehatetravel.com/'
 languageCode = 'en-us'
 title = "Love Wife, Hate Travel"
-copyright = "© LW:HT"
+copyright = "© Love Wife, Hate Travel"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -59,6 +59,10 @@ name = "LW:HT"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/jadoint/love-wife-hate-travel/"
+  name = "Privacy Policy"
+  url = "https://lovewifehatetravel.com/privacy-policy"
+  weight = 3
+[[menu.footer]]
+  name = "Terms of Use"
+  url = "https://lovewifehatetravel.com/terms-of-use"
   weight = 3
